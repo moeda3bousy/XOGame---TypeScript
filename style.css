@@ -1,0 +1,36 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    color: white;
+    background: black;
+}
+
+.container {
+    width: 30%;
+    margin: auto;
+}
+
+span {
+    color: black;
+    background: none;
+}
+
+.head {
+    background: darkorange;
+}
+
+.square {
+    float: left;
+    background: darkorange;
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+    font-size: 80px;
+    text-align: center;
+    color: black;
+}
+
+.square:hover {
+    background: white;
+    cursor: pointer;
+}
